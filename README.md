@@ -1,0 +1,1 @@
+Spring rest docs application
